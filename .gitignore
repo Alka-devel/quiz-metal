@@ -3,7 +3,7 @@
 *.dll
 *.so
 *.dylib
-
+*.code-workspace
 *.out
 
 vendor/
